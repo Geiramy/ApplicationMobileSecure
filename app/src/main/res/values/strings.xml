@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Yannis Bourrée</string>
+    <string name="buttonLogin">Valider</string>
+    <string name="identifiant">Identifiant</string>
+    <string name="password">Mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="textHomeBonjour">Bonjour</string>
+    <string name="textHomeCycle">Cycle de vie</string>
+    <string name="textHomePermission">Permissions</string>
+    <string name="textHomeWeb">Web services</string>
+    <string name="textHomeSave">Sauvegarder</string>
+    <string name="textCycleRetour">Retour</string>
+    <string name="btnHomedisconnect">Disconnect</string>
+    <string name="login_pref"/>
+    <string name="hintFormName">Nom</string>
+    <string name="hintFormFirstname"/>
+    <string name="btnFormRegister">Enregistrer</string>
+    <string name="textFormTitle">Accès au fichier</string>
+    <string name="textFormFirstname">Prénom</string>
+    <string name="textFormName">Nom</string>
+    <string name="textFormTitleDate">Date:</string>
+    <string name="textFormDate">JJ/MM/AAAA</string>
+    <string name="btnFormView">Afficher</string>
+    <string name="textPermissionTitle">Accès aux informations Android</string>
+    <string name="textPermissionLatitude">Latitude:</string>
+    <string name="textPermissionLongitude">Longitude:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
